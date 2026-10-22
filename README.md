@@ -1,135 +1,196 @@
 <div align="center">
 
-  <!-- Header Banner Capsule -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0b0f19,30:111827,65:0f172a,100:1e293b&height=220&section=header&text=DANG%20TUAN&fontSize=44&fontAlignY=38&animation=fadeIn&desc=Fullstack%20Software%20Engineer%20%E2%80%A2%20AI%20Systems%20Builder&descAlignY=58&descAlign=50&descSize=18" width="100%" alt="Dang Tuan Header Banner" />
+  <!-- TOP HEADER BANNER (DYNAMIC WAVING GRADIENT) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,18,24&height=230&section=header&text=TUAN%20DANG%20(TUANDUDE)&fontSize=42&fontAlignY=36&desc=%E2%9A%A1%20AI%20Engineer%20%E2%80%A2%20Full-Stack%20Vibe%20Coder%20%E2%80%A2%20Builder%20%E2%9A%A1&descSize=18&descAlignY=58&stroke=00f2fe&strokeWidth=2" width="100%" alt="Header Banner" />
 
-  <!-- Dynamic Typing Subtitle -->
+  <!-- DYNAMIC TYPING SVG SUBTITLE -->
   <a href="https://github.com/Tuandude">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2600&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Fullstack+Software+Engineer+%26+AI+Builder;Architecting+Robust+Web+Applications;TypeScript+%E2%80%A2+React+%E2%80%A2+Next.js+%E2%80%A2+Python+%E2%80%A2+FastAPI;Bridging+Clean+Code+with+Scalable+Architecture;Open+for+Freelance+Contracts+%26+Engineering+Teams" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=00F2FE&background=00000000&center=true&vCenter=true&width=620&lines=%3E+AI+Student+%26+Computer+Vision+Researcher;%3E+Full-Stack+Vibe+Coder+%E2%9A%A1;%3E+Deep+Learning+%26+PyTorch+Enthusiast;%3E+Architecting+Intelligent+Web+Experiences;%3E+Turning+High-Voltage+Ideas+Into+Reality" alt="Typing SVG" />
   </a>
 
-  <p align="center">
-    <b>Crafting pixel-perfect frontends, resilient backends, and intelligent machine learning microservices.</b>
-  </p>
+  <br/><br/>
 
-  <!-- Connect Badges (Có Upwork chính thức) -->
-  <p align="center">
-    <a href="https://www.upwork.com/freelancers/~tuandude" target="_blank">
-      <img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork Profile" />
-    </a>
-    &nbsp;
-    <a href="https://linkedin.com/in/tuandude" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
-    </a>
-    &nbsp;
-    <a href="mailto:dudenoblade@gmail.com">
-      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    &nbsp;
-    <a href="https://github.com/Tuandude">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
-    </a>
-  </p>
+  <!-- QUICK SOCIAL & CONTACT BUTTONS (NEON FOR-THE-BADGE) -->
+  <a href="https://github.com/Tuandude">
+    <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=googlechrome&logoColor=00f2fe" alt="Portfolio" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/tuandude">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://www.upwork.com">
+    <img src="https://img.shields.io/badge/UPWORK-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" />
+  </a>
+  &nbsp;
+  <a href="mailto:dudenoblade@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=Tuandude&label=PROFILE+VIEWS&color=00f2fe&style=for-the-badge&logo=eye" alt="Profile Views" />
 
 </div>
 
----
+<br/>
 
-### ⚡ About Me
+<!-- ========================================= -->
+<!-- ⚡ SECTION 1: ABOUT ME / TERMINAL CONSOLE -->
+<!-- ========================================= -->
 
-```yaml
-engineer:
-  name: "Đặng Tuấn (Dang Tuan)"
-  role: "Fullstack Software Engineer & AI Builder"
-  location: "Đà Nẵng, Việt Nam 🇻🇳"
-  core_philosophy: "Clean Architecture, Type Safety & Pragmatic Execution"
-  currently_building: "Production-grade Fullstack SaaS & Deep Learning Architectures"
-  working_with: ["TypeScript", "React", "Next.js", "Python", "FastAPI", "PostgreSQL", "Docker"]
-  availability: "Open to High-Impact Fullstack & AI Engineering Opportunities"
-```
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <h3><code>$ cat about_tuandude.sh</code> 👾</h3>
+      <p>
+        Xin chào! Mình là <b>Đặng Văn Bảo Tuấn</b> (aka <code>@Tuandude</code>) — sinh viên chuyên ngành <b>Trí Tuệ Nhân Tạo & Kỹ Thuật Phần Mềm</b> tại Việt Nam.
+      </p>
+      <p>
+        Là một <b>AI Engineer & Full-Stack Vibe Coder</b>, mình không chỉ dừng lại ở mô hình lý thuyết mà luôn đam mê đóng gói AI thành sản phẩm web thực chiến, mượt mà và trực quan với người dùng.
+      </p>
+      <ul>
+        <li>🔭 <b>Currently Focused:</b> Deep Learning (CNN, Transformers), Computer Vision & Real-time Web Inference.</li>
+        <li>⚡ <b>Vibe Coding Philosophy:</b> Tốc độ, tính thẩm mỹ, tận dụng sức mạnh AI và công nghệ hiện đại để ship sản phẩm đột phá.</li>
+        <li>🎯 <b>Goal:</b> Tìm kiếm cơ hội thực tập / freelance dự án AI & Web Full-stack để cống hiến và nâng tầm kỹ năng.</li>
+        <li>📫 <b>Contact:</b> <code>dudenoblade@gmail.com</code></li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-00ff87?style=flat-square&logo=git&logoColor=black" alt="Status" />
+        &nbsp;
+        <img src="https://img.shields.io/badge/LOCATION-VIETNAM-00f2fe?style=flat-square&logo=google-maps&logoColor=black" alt="Location" />
+      </p>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Cyberpunk Coding GIF" style="border-radius: 10px;" />
+    </td>
+  </tr>
+</table>
 
-- 🔭 **Architecting**: Modern web applications with React 19, Next.js App Router, TypeScript, and FastAPI.
-- 🧠 **AI & Machine Learning**: Computer Vision pipelines, transformer fine-tuning, and real-time inference microservices.
-- ⚡ **Engineering Principles**: Test-Driven Development (TDD), Deep Modules, Strict Typing, and Minimalist UX/UI.
-- 💼 **Freelancing & Contracts**: Available on [Upwork](https://www.upwork.com/freelancers/~tuandude) for web development, MVP prototyping, and API integrations.
+<br/>
 
----
-
-### 🛠️ Technical Arsenal
+<!-- ========================================= -->
+<!-- 🛠️ SECTION 2: TECH ARSENAL (CYBERPUNK)     -->
+<!-- ========================================= -->
 
 <div align="center">
-
-| Domain | Stack & Technologies |
-| :--- | :--- |
-| **Frontend & UI Engineering** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![HTML5/CSS3](https://img.shields.io/badge/HTML5%20%2F%20CSS3-E34F26?style=flat-square&logo=html5&logoColor=white) |
-| **Backend & Microservices** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=flat-square&logo=googlechrome&logoColor=white) |
-| **AI, ML & Computer Vision** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![MediaPipe](https://img.shields.io/badge/MediaPipe-0072CE?style=flat-square&logo=google&logoColor=white) |
-| **Databases & Storage** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
-| **DevOps & Developer Tools** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
-
+  <h2><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" /> TECH ARSENAL & WEAPONS</h2>
+  <p><i>Các công nghệ và công cụ được sử dụng hàng ngày để nghiên cứu và xây dựng hệ thống:</i></p>
 </div>
 
----
+### 🧠 Artificial Intelligence & Machine Learning
+<p align="center">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace" />
+  <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white" alt="MediaPipe" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
+</p>
 
-### 🏆 GitHub Achievements
+### 💻 Full-Stack Web & UI Engineering
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+</p>
+
+### ⚙️ DevOps, Databases & Workflow
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+</p>
+
+<br/>
+
+<!-- ========================================= -->
+<!-- 🚀 SECTION 3: FEATURED BENTO PROJECTS      -->
+<!-- ========================================= -->
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tuandude&theme=onedark&no-frame=false&no-bg=false&margin_w=4&row=1&column=7" alt="Tuandude Trophies" />
+  <h2><img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="30" /> FEATURED PROJECTS & CURRENT EXPERIMENTS</h2>
+  <p><i>Các dự án tiêu biểu được phát triển theo hướng giải quyết bài toán thực tế:</i></p>
 </div>
 
----
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🎯 MNIST Digit Classifier</h4>
+      <p>Mô hình CNN nhận diện chữ số viết tay đạt <b>99.2% accuracy</b> trên tập test. Tích hợp pipeline tiền xử lý ảnh và web inference thời gian thực.</p>
+      <p>
+        <code>PyTorch</code> • <code>CNN</code> • <code>TensorFlow.js</code> • <code>Vite</code>
+      </p>
+      <p>
+        <a href="https://github.com/Tuandude"><b>🔗 Explore Repo »</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>💬 Vietnamese Sentiment Analysis</h4>
+      <p>Hệ thống phân tích sắc thái cảm xúc bình luận tiếng Việt (Positive / Negative / Neutral) dựa trên pre-trained transformer <b>PhoBERT</b>, phục vụ lắng nghe mạng xã hội.</p>
+      <p>
+        <code>PhoBERT</code> • <code>HuggingFace</code> • <code>FastAPI</code> • <code>Python</code>
+      </p>
+      <p>
+        <a href="https://github.com/Tuandude"><b>🔗 Explore Repo »</b></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>👁️ Real-time Face Landmarks</h4>
+      <p>Ứng dụng thị giác máy tính nhận diện khuôn mặt và ước lượng tư thế 3D với tốc độ <b>30+ FPS</b> mượt mà qua webcam bằng MediaPipe & OpenCV.</p>
+      <p>
+        <code>OpenCV</code> • <code>MediaPipe</code> • <code>Computer Vision</code> • <code>Python</code>
+      </p>
+      <p>
+        <a href="https://github.com/Tuandude"><b>🔗 Explore Repo »</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🌌 AI Demo Lab & Interactive Visualizations</h4>
+      <p>Phòng thí nghiệm giao diện tương tác và trực quan hóa các thuật toán AI phức tạp thành trải nghiệm web sống động, trực quan.</p>
+      <p>
+        <code>React</code> • <code>TypeScript</code> • <code>FastAPI</code> • <code>TailwindCSS</code>
+      </p>
+      <p>
+        <a href="https://github.com/Tuandude"><b>🔗 Explore Repo »</b></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-### 📊 Performance & Analytics
+<br/>
+
+<!-- ========================================= -->
+<!-- ⚡ SECTION 4: DEV QUOTE & TERMINAL VIBE    -->
+<!-- ========================================= -->
 
 <div align="center">
-  <table border="0">
+  <table width="100%">
     <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=Tuandude&show_icons=true&theme=tokyonight&hide_border=false&border_color=30363d&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8" width="100%" alt="Tuandude GitHub Stats" />
-      </td>
-      <td width="50%">
-        <img src="https://streak-stats.demolab.com/?user=Tuandude&theme=tokyonight&hide_border=false&border_color=30363d&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakNum=38bdf8&sideNums=94a3b8&sideLabels=94a3b8&dates=64748b" width="100%" alt="Tuandude Streak Stats" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tuandude&layout=compact&theme=tokyonight&hide_border=false&border_color=30363d&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8" width="100%" alt="Tuandude Top Languages" />
+      <td align="center" style="background-color: #0d1117; border: 1px solid #00f2fe; border-radius: 8px; padding: 15px;">
+        <p style="margin: 0; font-family: 'Courier New', Courier, monospace; color: #00ff87;">
+          <code>&gt; "Code is like humor. When you have to explain it, it’s bad." — Cory House</code>
+        </p>
+        <p style="margin: 5px 0 0 0; font-family: 'Courier New', Courier, monospace; color: #8b949e; font-size: 13px;">
+          <i>Keep shipping, keep learning, stay hungry. 🚀</i>
+        </p>
       </td>
     </tr>
   </table>
 </div>
 
----
+<br/>
 
-### 📈 Activity Graph
+<!-- ========================================= -->
+<!-- 🌊 BOTTOM FOOTER BANNER                    -->
+<!-- ========================================= -->
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tuandude&bg_color=0d1117&color=38bdf8&line=38bdf8&point=f8fafc&area=true&hide_border=false&border_color=30363d" width="100%" alt="Tuandude Activity Graph" />
-</div>
-
----
-
-### 🤝 Connect & Collaborate
-
-<p align="center">
-  Whether you are looking for a reliable Fullstack Developer, need to integrate AI workflows into your product, or want to discuss cutting-edge tech — let's connect!
-</p>
-
-<p align="center">
-  <a href="https://www.upwork.com/freelancers/~tuandude" target="_blank">
-    <img src="https://img.shields.io/badge/Hire_Me_On-Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Hire on Upwork" />
-  </a>
-  &nbsp;
-  <a href="mailto:dudenoblade@gmail.com">
-    <img src="https://img.shields.io/badge/Direct_Inquiry-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Direct Email" />
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/tuandude" target="_blank">
-    <img src="https://img.shields.io/badge/Professional-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
-  </a>
-</p>
-
-<!-- Footer Wave Banner -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:1e293b,35:0f172a,70:111827,100:0b0f19&height=120&section=footer" width="100%" alt="Footer Wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,18,24&height=120&section=footer" width="100%" alt="Footer Banner" />
 </div>
