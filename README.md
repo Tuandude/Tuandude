@@ -1,16 +1,16 @@
 <div align="center">
 
-  <!-- TOP HEADER BANNER (FAST ANIMATION, CLEAN NEON GRADIENT) -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,18,24&height=220&section=header&text=TUAN%20DANG%20(TUANDUDE)&fontSize=42&fontAlignY=38&animation=fadeIn&animationDuration=1.5&desc=%E2%9A%A1%20Frontend%20%2F%20Fullstack%20Developer%20%E2%80%A2%20AI%20Enthusiast%20%E2%9A%A1&descSize=18&descAlignY=60" width="100%" alt="Header Banner" />
+  <!-- TOP HEADER BANNER (CYBERPUNK CYAN / BLUE - NO RED) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:090d16,40:0d2040,75:0052d4,100:00f2fe&height=220&section=header&text=TUAN%20DANG%20(TUANDUDE)&fontSize=42&fontAlignY=38&animation=fadeIn&desc=%E2%9A%A1%20Frontend%20%2F%20Fullstack%20Developer%20%E2%80%A2%20AI%20Enthusiast%20%E2%9A%A1&descSize=18&descAlignY=60" width="100%" alt="Header Banner" />
 
-  <!-- DYNAMIC TYPING SVG SUBTITLE (FASTER DURATION: 1800ms) -->
+  <!-- DYNAMIC TYPING SVG SUBTITLE (FAST & CRISP) -->
   <a href="https://github.com/Tuandude">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=1800&pause=600&color=00F2FE&background=00000000&center=true&vCenter=true&width=620&lines=%3E+Frontend+%2F+Fullstack+Developer;%3E+Building+Modern+Web+Apps+with+Astro+%26+TypeScript;%3E+Exploring+AI+Tools+%26+Automations;%3E+Open+for+Freelance+Contracts" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=1600&pause=500&color=00F2FE&background=00000000&center=true&vCenter=true&width=620&lines=%3E+Frontend+%2F+Fullstack+Developer;%3E+Building+Modern+Web+Apps+with+Astro+%26+TypeScript;%3E+Exploring+AI+Tools+%26+Automations;%3E+Open+for+Freelance+Contracts" alt="Typing SVG" />
   </a>
 
   <br/><br/>
 
-  <!-- QUICK SOCIAL & CONTACT BUTTONS (NO BROKEN VIEWS COUNTER) -->
+  <!-- QUICK SOCIAL & CONTACT BUTTONS -->
   <a href="https://github.com/Tuandude/Portfolio" target="_blank">
     <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=googlechrome&logoColor=00f2fe" alt="Portfolio" />
   </a>
@@ -55,7 +55,7 @@
       </p>
     </td>
     <td width="40%" align="center" valign="middle">
-      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Cyberpunk Coding GIF" style="border-radius: 10px;" />
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding Animation GIF" style="border-radius: 10px;" />
     </td>
   </tr>
 </table>
@@ -142,5 +142,5 @@
 <!-- ========================================= -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,18,24&height=120&section=footer" width="100%" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:00f2fe,25:0052d4,60:0d2040,100:090d16&height=120&section=footer" width="100%" alt="Footer Banner" />
 </div>
