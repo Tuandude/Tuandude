@@ -40,12 +40,12 @@
     <td width="60%" valign="top">
       <h3><code>$ cat about_tuandude.sh</code> 👾</h3>
       <p>
-        Xin chào! Mình là <b>Đặng Văn Bảo Tuấn</b> (<code>@Tuandude</code>) — Web / Fullstack Developer đam mê trải nghiệm người dùng, TypeScript và ứng dụng AI vào thực tế.
+        Hi there! I'm <b>Tuan Dang</b> (<code>@Tuandude</code>) — a passionate <b>Frontend / Fullstack Developer</b> dedicated to crafting seamless user experiences, type-safe architectures, and practical AI-powered applications.
       </p>
       <ul>
         <li>💻 <b>Main Stack:</b> TypeScript, JavaScript, Astro, React, Tailwind CSS, Node.js.</li>
-        <li>🚀 <b>Exploring:</b> AI-assisted Coding (Aider, Agentic Workflows), Next.js và Cloud Services.</li>
-        <li>🎯 <b>Current Goal:</b> Xây dựng các sản phẩm web thực tế mượt mà, tối ưu hiệu năng và nhận dự án Freelance / thực tập.</li>
+        <li>🚀 <b>Exploring:</b> AI-assisted Engineering (Aider, Agentic Workflows), Next.js, and Modern Cloud Systems.</li>
+        <li>🎯 <b>Current Goal:</b> Building high-performance, real-world web products and open for Freelance contracts & Engineering internships.</li>
         <li>📫 <b>Contact:</b> <code>dudenoblade@gmail.com</code></li>
       </ul>
       <p>
@@ -92,26 +92,26 @@
 <br/>
 
 <!-- ========================================= -->
-<!-- 🚀 SECTION 3: MY REPOSITORIES (THỰC TẾ)   -->
+<!-- 🚀 SECTION 3: FEATURED REPOSITORIES        -->
 <!-- ========================================= -->
 
 <div align="center">
   <h2><img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="30" /> FEATURED REPOSITORIES</h2>
-  <p><i>Các dự án thực tế đang phát triển trên GitHub của mình:</i></p>
+  <p><i>Real-world projects and active repositories on my GitHub:</i></p>
 </div>
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h4>🌐 <a href="https://github.com/Tuandude/Portfolio">Portfolio</a></h4>
-      <p>Trang web Portfolio cá nhân xây dựng bằng Astro hiện đại, tối ưu hiệu năng tốc độ tải trang cực cao và chuẩn SEO.</p>
+      <p>Modern personal portfolio built with Astro, engineered for ultra-fast load times, sleek UI interactions, and strong SEO.</p>
       <p>
         <code>Astro</code> • <code>TypeScript</code> • <code>TailwindCSS</code>
       </p>
     </td>
     <td width="50%" valign="top">
       <h4>🤖 <a href="https://github.com/Tuandude/Aider">Aider</a></h4>
-      <p>Công cụ hỗ trợ AI Git Commit tự động, tích hợp trí tuệ nhân tạo vào quy trình phát triển phần mềm.</p>
+      <p>Automated AI Git Commit utility, seamlessly integrating intelligent assistants into real-world software workflows.</p>
       <p>
         <code>TypeScript</code> • <code>AI</code> • <code>Git Workflow</code>
       </p>
@@ -120,14 +120,14 @@
   <tr>
     <td width="50%" valign="top">
       <h4>🐝 <a href="https://github.com/Tuandude/HabitHive">HabitHive</a></h4>
-      <p>Ứng dụng theo dõi thói quen hàng ngày, giúp xây dựng kỷ luật bản thân với giao diện trực quan và trải nghiệm mượt mà.</p>
+      <p>A daily habit-tracking application designed to cultivate personal discipline with an intuitive, fluid interface.</p>
       <p>
         <code>TypeScript</code> • <code>React</code> • <code>Frontend</code>
       </p>
     </td>
     <td width="50%" valign="top">
       <h4>⏱️ <a href="https://github.com/Tuandude/Track-App">Track-App</a></h4>
-      <p>Ứng dụng quản lý và theo dõi tiến độ công việc, tối ưu hóa năng suất làm việc cá nhân.</p>
+      <p>Task tracking and productivity management app built to streamline daily workflows and personal time management.</p>
       <p>
         <code>JavaScript</code> • <code>CSS3</code> • <code>Web App</code>
       </p>
